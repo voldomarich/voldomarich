@@ -6,7 +6,7 @@
 - -
 - - 🌱 I’m currently learning Java at [Job4j](https://job4j.ru/)
 - -
-- - ⚡ Fun fact: I've been studied Java for a more than two years :satisfied::satisfied::satisfied:
+- - ⚡ Fun fact: I've been studied Java for about two years :satisfied::satisfied::satisfied:
 - -
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=voldomarich&hide=stars,prs,issues,contribs)
 - -
