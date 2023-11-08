@@ -8,9 +8,7 @@
 - - 👯 I’m looking to collaborate on Google
 - - 📫 How to reach me: t.me/vladimir19871111
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=voldomarich&hide=stars,prs,issues,contribs)
-- -
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voldomarich&layout=compact)](https://github.com/ShamRail/github-readme-stats)
-- - 
 - - ![Java](https://img.youtube.com/vi/KXDoGXVuUb8/0.jpg)
 <!--
 
