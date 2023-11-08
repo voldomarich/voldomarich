@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Vladimir. Welcome! 
-- - ![Java]["C:\Users\vbeka\OneDrive\Изображения\Снимки экрана\Java-.jpg"]
+- - ![Java][[https://img.shields.io/badge/any_text-you_like-blue)]
 ]
 - - 🔭 I’m currently working on job4j_design :running::running:
 - -
