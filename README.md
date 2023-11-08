@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Vladimir. Welcome! 
 
-- - ![Java](https://andreyex.ru/wp-content/uploads/2018/05/Kak-ustanovit-Java-s-apt-na-Ubuntu-18.04.jpg)
-]
+- - ![Java](https://img.youtube.com/vi/KXDoGXVuUb8/0.jpg)
+
 - - 🔭 I’m currently working on job4j_design :running::running:
 - -
 - - 🌱 I’m currently learning Java at [Job4j](https://job4j.ru/)
