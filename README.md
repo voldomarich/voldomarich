@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Vladimir. I'm 33 years old. Welcome! 
+### Hi there 👋 My name is Vladimir and I live in Russia. I started studying Java when I was 33. Welcome! 
 
 
 
